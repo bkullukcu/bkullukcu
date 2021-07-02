@@ -16,7 +16,8 @@
 </a>
 -->
 <p align="center">
-I'm an aspiring **Mechanical/ MEMS** Engineer based in **Turkey**. I do Python and SQL programming. Feel Free to contact me. 
+I'm an aspiring **Mechanical/ MEMS** Engineer based in **Turkey**. I do Python and SQL programming. Feel Free to contact me.
+  
 📫 [@Berkay Kullukçu](https://www.linkedin.com/in/bkullukcu)
 </p>
 <h1 align="center"></h1>
