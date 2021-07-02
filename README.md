@@ -7,3 +7,9 @@
   <a href="https://www.linkedin.com/in/bkullukcu"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
+<p align ="center">
+<a href="https://github.com/bkullukcu/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeepaPrasanna&count_private=true&show_icons=true&theme=shades-of-purple" />
+</a>
+  </p>
+</a>-->
