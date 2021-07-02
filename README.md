@@ -24,5 +24,5 @@ I'm an aspiring Mechanical/ MEMS Engineer. I do Python and SQL programming. Feel
 <h1 align="center"></h1>
 
 <p align ="center">
-| <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/git.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/github.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/mysql.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/python.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/visualstudiocode.svg" width=60> |
+| <img src="https://github.com/bkullukcu/bkullukcu/blob/master/git.svg" width=60> | <img src="https://github.com/bkullukcu/bkullukcu/blob/master/github.svg" width=60> | <img src="https://github.com/bkullukcu/bkullukcu/blob/master/mysql.svg" width=60> | <img src="https://github.com/bkullukcu/bkullukcu/blob/master/python.svg" width=60> | <img src="https://github.com/bkullukcu/bkullukcu/blob/master/visualstudiocode.svg" width=60> |
 </p>
