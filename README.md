@@ -13,8 +13,10 @@
   </p>
 </a>
 -->
+I'm an aspiring **Mechanical/ MEMS** Engineer based in **Turkey**. I do Python and SQL programming. Feel Free to contact me 
 
-
+* 📫 Contact me [@Berkay Kullukçu](https://www.linkedin.com/in/bkullukcu)
+ 
 <h1 align="center"></h1>
 
 <p align ="center">
