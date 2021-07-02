@@ -1,5 +1,5 @@
 <p align="center">
-  <img src = "https://github.com/bkullukcu/bkullukcu/blob/master/namegif.gif" width = "900" height = "300" align = "center">
+  <img src = "https://github.com/bkullukcu/bkullukcu/blob/master/namegif.gif" width = "600" height = "300" align = "center">
 </p>
 <p align="center">
   <img src = "https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/femalecodertocat.png" width = "300" height = "300" align = "center">
