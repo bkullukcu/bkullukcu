@@ -16,4 +16,9 @@
 </a>
 -->
 
-## Tools and technologies
+
+<h1 align="center"></h1>
+
+Tools that I use:
+| <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/git.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/github.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/mysql.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/python.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/visualstudiocode.svg" width=60> |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
