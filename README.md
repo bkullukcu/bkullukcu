@@ -1,9 +1,11 @@
 <p align="center">
   <img src = "https://github.com/bkullukcu/bkullukcu/blob/master/namegif.gif" width = "600" height = "300" align = "center">
-  <a href="mailto:bkullukcu@gmail.com"><img src = "https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>   
-  <a href="https://www.linkedin.com/in/bkullukcu"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
+<p align="center">
+ <a href="mailto:bkullukcu@gmail.com"><img src = "https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>   
+ <a href="https://www.linkedin.com/in/bkullukcu"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 <!--
 <p align ="center">
@@ -13,10 +15,11 @@
   </p>
 </a>
 -->
-I'm an aspiring **Mechanical/ MEMS** Engineer based in **Turkey**. I do Python and SQL programming. Feel Free to contact me 
+<p align="center">
+I'm an aspiring **Mechanical/ MEMS** Engineer based in **Turkey**. I do Python and SQL programming. Feel Free to contact me. 
 
-* 📫 Contact me [@Berkay Kullukçu](https://www.linkedin.com/in/bkullukcu)
- 
+📫 [@Berkay Kullukçu](https://www.linkedin.com/in/bkullukcu)
+ </p>
 <h1 align="center"></h1>
 
 <p align ="center">
