@@ -1,4 +1,4 @@
-<h1 align="center"> 👋</h1>
+<h1 align="center"></h1>
 
 <p align="center">
   <img src = "https://github.com/bkullukcu/bkullukcu/blob/master/namegif.gif" width = "600" height = "300" align = "center">
