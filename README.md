@@ -16,7 +16,7 @@
 </a>
 -->
 <p align="center">
-I'm an aspiring Mechanical/ MEMS Engineer. I do Python and SQL programming. Feel free to contact me.
+I'm an Acoustics Engineer. I do Python programming. Feel free to contact me.
 </p>
 <p align="center">
 📫 [@Berkay Kullukçu](https://www.linkedin.com/in/bkullukcu)
